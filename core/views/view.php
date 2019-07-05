@@ -2,7 +2,7 @@
 
 class View{
 
-        public function render($file,$variable){
+        public function render($file,$variable = false){
                 $this->array = $variable;
                 require_once 'core/views/'.$file.'.php';
         }
