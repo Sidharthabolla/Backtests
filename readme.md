@@ -23,9 +23,3 @@ points on solutions that extends the view with other ways to compare these two b
 - PHP 7.1+ syntax.
 - For simplicity ignore start-end dates of the backtests.
 - Create two sparklines with 100 points, representative of each backtest result.
-
-
-# Backtests
-# Backtests
-# Backtests
-# Backtests
